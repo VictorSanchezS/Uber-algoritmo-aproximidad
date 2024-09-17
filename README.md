@@ -25,5 +25,3 @@ El funcionamiento técnico del algoritmo de proximidad de Uber combina varias t�
    - **Uso de Machine Learning**: Uber también implementa modelos de predicción de demanda y asignación de conductores mediante algoritmos de Machine Learning, optimizando el tiempo de respuesta y la satisfacción de los usuarios.
 
 Este enfoque combina lo mejor de los algoritmos tradicionales de búsqueda con optimizaciones dinámicas y predicciones en tiempo real, haciéndolo altamente eficiente en el manejo de millones de usuarios en diferentes zonas geográficas.
-
-Si necesitas más detalle sobre alguno de estos aspectos, avísame.
